@@ -24,7 +24,7 @@ a rule that you cannot or will not follow.
 Each contributor licenses you to do everything with this
 software that would otherwise infringe that contributor's
 copyright in it, with the exceptions specified in
-[Forbidden Uses](#Forbidden Uses).
+[Forbidden Uses](#forbidden-uses).
 
 ## Forbidden Uses
 
@@ -33,8 +33,8 @@ for the surveillance of persons without their knowledge or consent.
 This includes, but is not limited to, products sold for
 government surveillance or stalkerware.
 This does not forbid the surveillance of private networks by their owners,
-with the consent of the networks users, such as for the monitoring
-monitoring for intrusions.
+with the consent of the networks users, such as for the monitoring for
+intrusions.
 
 ## Notices
 
